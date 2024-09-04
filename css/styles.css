@@ -684,13 +684,13 @@ footer {
 .close-button:hover {
     background-color: #404BBF;
     border: none;
-    fill: #ffffff
+    fill: #ffffff;
 }
 
 .close-button:focus {
     background-color: #404BBF;
     border: none;
-    fill: #ffffff
+    fill: #ffffff;
 }
 
 .close-icon {
