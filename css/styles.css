@@ -681,20 +681,14 @@ footer {
     cursor: pointer;
 }
 
-.close-button:hover {
-    background-color: #404BBF;
-    border: none;
-    fill: #ffffff;
-}
-
+.close-button:hover,
 .close-button:focus {
     background-color: #404BBF;
     border: none;
-    fill: #ffffff;
+    fill: #fff;
 }
 
 .close-icon {
-    fill: #2e2f42;
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -711,6 +705,7 @@ footer {
 }
 
 .user_label {
+    display: block;
     margin-bottom: 4px;
     width: 100%;
     font: 400 12px / 1.16667 "Roboto", sans-serif;
