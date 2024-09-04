@@ -711,7 +711,6 @@ footer {
 }
 
 .user_label {
-    display: block;
     margin-bottom: 4px;
     width: 100%;
     font: 400 12px / 1.16667 "Roboto", sans-serif;
